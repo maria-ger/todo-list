@@ -1,0 +1,6 @@
+asyncpg==0.31.0
+bcrypt @ file:///Users/ec2-user/ci_py311/bcrypt_1678325873219/work
+databases==0.9.0
+fastapi==0.128.0
+pydantic==2.13.4
+uvicorn==0.40.0
